@@ -1,0 +1,72 @@
+@font-face {
+	font-family: Spartan;
+    src: url("../fonts/Spartan-Regular.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+	font-family: Spartan;
+    src: url("../fonts/Spartan-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+	font-family: Spartan;
+    src: url("../fonts/Spartan-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+	font-family: Spartan;
+    src: url("../fonts/Spartan-Bold.ttf");
+    font-weight: bold;
+}
+
+body {
+    margin: 0;
+    font-weight: normal;
+}
+
+div, section {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.right-bar {
+    width: 50%;
+    background-color: #36ebb9;
+    min-height: 100vh;
+    color: #0d0d0d;
+    letter-spacing: 2px;
+    line-height: 1.6;
+    padding: 70px 130px;
+}
+
+.right-bar h1 {
+    color: #0d0d0d;
+    font-weight: normal;
+    font-size: 75px;
+    line-height: normal;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.left-bar {
+    width: 50%;
+    background: url(../images/rosee.jpg);
+    background-position: bottom center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    min-height: 100vh;
+}
+
+/* #overlay {
+    background: rgba(150, 140, 140,0.3);
+    width: 50%;
+    height: 200px;
+    text-align: center;
+} */
+
+
+
