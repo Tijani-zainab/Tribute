@@ -15,9 +15,13 @@ I woudnt be able to submit.
 But it turns out, my github link was enough.
 
 ## Constructive feedback
+So far i think its great and explicit.
+
+## My feedback
 I showed the first design to a friend, and he
 Made me realise i should keep the simplicity and 
 and change the background image.
 
+## Contribution
 I contrubuted all to it myself, and grateful for
 This opportunity ❤
