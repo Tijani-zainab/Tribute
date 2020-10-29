@@ -40,15 +40,15 @@ div, section {
     color: #0d0d0d;
     letter-spacing: 2px;
     line-height: 1.6;
-    padding: 70px 130px;
+    padding: 5% 11%;
 }
 
 .right-bar h1 {
     color: #0d0d0d;
     font-weight: normal;
-    font-size: 75px;
+    font-size: 4.5rem;
     line-height: normal;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     font-weight: bold;
 }
 
@@ -67,6 +67,28 @@ div, section {
     height: 200px;
     text-align: center;
 } */
+
+
+
+/* Mobile View Screening*/
+@media only screen and (max-width: 360px) {
+   
+    .right-bar,
+    .left-bar {
+        width: 100%;
+    }
+
+    .right-bar h1 {
+        font-size: 4rem;
+    }
+
+    .right-bar {
+        padding: 15% 10%;
+        line-height: 1.9;
+    }
+    
+  }
+
 
 
 
