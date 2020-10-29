@@ -1,4 +1,4 @@
-# Project Tribute 📽️
+# Tribute 📽️
 Written in HTML, CSS.
 [Preview Website](https://https://tributee.netlify.app/) 🔗
 
