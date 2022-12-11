@@ -8,5 +8,4 @@ general as tribute to everyone i love and respect.
 
 
 #### By [Zayne](https://github.com/Tijani-zainab) 👧
-I contrubuted all to it myself, and i'm grateful for
-This opportunity ❤
+contrubuted to all myself
